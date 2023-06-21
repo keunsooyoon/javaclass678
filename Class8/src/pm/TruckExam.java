@@ -1,10 +1,9 @@
 package pm;
 
-public class ExamQuiz3 {
+public class TruckExam {
+
 	public static void main(String[] args) {
-	
+		Truck t = new Truck();
 	}
+
 }
-
-class Person{}
-
